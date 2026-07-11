@@ -1,13 +1,22 @@
 {
+  "id": "./",
   "name": "Project Midnight",
   "short_name": "Midnight",
   "description": "A one-minute daily pattern challenge.",
+  "lang": "en-US",
+  "dir": "ltr",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
   "background_color": "#090b14",
   "theme_color": "#090b14",
   "orientation": "portrait-primary",
+  "categories": ["games", "entertainment"],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "prefer_related_applications": false,
   "icons": [
     {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
   ]
