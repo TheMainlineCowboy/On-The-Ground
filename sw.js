@@ -1,4 +1,4 @@
-const CACHE='midnight-v8';
+const CACHE='midnight-v9';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icon.svg'];
 
 self.addEventListener('install',event=>{
