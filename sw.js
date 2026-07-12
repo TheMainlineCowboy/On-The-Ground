@@ -1,4 +1,4 @@
-const CACHE='midnight-v16';
+const CACHE='midnight-v17';
 const CACHE_PREFIX='midnight-';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-maskable.svg'];
 const REQUIRED_SHELL=['./','./index.html'];
