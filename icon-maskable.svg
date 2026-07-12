@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Project Midnight maskable icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#a99fff"/>
+      <stop offset="1" stop-color="#5c49dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#090b14"/>
+  <circle cx="256" cy="256" r="154" fill="url(#g)"/>
+  <path d="M166 329V183h38l52 84 52-84h38v146h-40v-82l-50 78-50-78v82z" fill="#fff"/>
+</svg>
